@@ -41,6 +41,7 @@ desktop.ini
 # Project specific
 *.zip
 *.log
+file_search.py
 
 # Temporary files
 *.tmp
