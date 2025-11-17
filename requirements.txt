@@ -1,0 +1,8 @@
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+openpyxl>=3.0.0
+
+# Optional dependencies for enhanced features
+# pywin32>=300  # For Excel cell navigation on Windows (install separately if needed)
+# xlrd>=2.0.0   # For legacy .xls file support (install separately if needed)
+
